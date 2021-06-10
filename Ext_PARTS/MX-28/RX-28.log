@@ -1,0 +1,49 @@
+Conversion STEP vers Solid Edge
+Date: mercredi,mai 11,2016 02 :55
+Fichier source: C:\Users\raphael.leber\Documents\PROJETS\RobotcupAtHome\Bras_PRRRRR\Gripper_mx28_v1\Ext_PARTS\RX-28.stp
+Auteur: 'Andy'
+Organisation: '
+Système source: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2009060
+
+Matériel:
+Processeur: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
+Système d'exploitation: Windows 7 Professional Service Pack 1
+Mémoire installée: 7.88 GB
+
+Informations sur le logiciel
+Version de Parasolid: 27.0.142
+Version de PSBodyShop: 27.0.100
+Version du convertisseur: 17.49.0
+Version de Solid Edge: 107.00.00.104 x64
+
+Options d'importation STEP
+Activer transfert des attributs: Actif
+Importer filaires Classe II: Actif
+Importer filaires Classe III: Actif
+Importer surface Classe IV: Actif
+Importer solides Classe IV: Actif
+Activer couture : Actif
+Importer et coudre surfaces de type Classe II: Actif
+Convertir solides Classe IV en tant que surfaces relimitées, puis coudre: Désactivé
+Corps solides booléens: Actif
+Créer fonction technologique de base: Actif
+Simplifier géométrie: Actif
+Réparation et couture activées: Désactivé
+Activer la réparation interne: Actif
+Exporter les noms de composant de pièce en tant qu'Unicode : Actif
+
+Etape 1 sur 3 - Conversion vers les types de données Parasolid...
+Fin de la conversion des types de données Parasolid
+Temps nécessaire à la conversion:00 : 00 : 02
+
+Etape 2 sur 3 - Simplifier la géométrie...
+Fin de l'opération de simplification de la géométrie
+Temps nécessaire à la simplification: 00 : 00 : 00
+Couture des surfaces libres...
+
+Etape 3 sur 3 - Création des entités Parasolid...
+Quantité totale de feuilles importées: 0
+Quantité totale de corps solides: 1
+Quantité totale de corps filaires:0
+Fin de  l'opération de conversion
+Temps total nécessaire à la conversion et au post-traitement:00 : 00 : 02

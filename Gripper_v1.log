@@ -1,0 +1,30 @@
+Conversion Solid Edge vers STEP
+Date: lundi,mai 04,2020 04:34
+Fichier en sortie: C:\Users\raphael.leber\Documents\PROJETS\RobotcupAtHome\Bras_PRRRRR\Gripper_mx28_v1\Gripper_v1.stp
+Auteur: LEBER Raphaël
+Organisation: Unknown
+Système source: Solid Edge
+
+Matériel:
+Processeur: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
+Système d'exploitation: Windows 7 Professional Service Pack 1
+Mémoire installée: 7.88 GB
+
+Informations sur le logiciel
+Version de Parasolid: 28.0.143
+Version de PSBodyShop: 28.0.80
+Version de l'adaptateur Step: 1.0.820
+Version de Solid Edge: 108.00.00.091 x64
+
+Options d'exportation STEP
+Format exportation : AP214
+Exporter feuilles de construction: Désactivé
+Importer solides de construction: Désactivé
+Exporter fils de construction: Désactivé
+Exporter uniquement les pièces affichées: Désactivé
+Exporter unités: Millimètres
+Exporter noms de composant de pièce en tant qu'Unicode : Désactivé
+
+Etape 1 sur 1 - conversion de Parasolid en types de données externes
+Fin de  l'opération de conversion
+Temps nécessaire à la conversion:00 : 00 : 08
